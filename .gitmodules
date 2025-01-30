@@ -1,0 +1,3 @@
+[submodule "packages/st-editor"]
+	path = packages/st-editor
+	url = https://github.com/TikshnaTamang/st-editor.git
